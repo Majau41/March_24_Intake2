@@ -12,7 +12,7 @@ from sklearn.ensemble import RandomForestRegressor
 
 # create  title for our app
 st.title('prediction and evaluation of MPG dataset')
-st.header("This is Majau's header")
+st.header("This is Majau's web app")
 
 # Load dataset
 df = sns.load_dataset('mpg')
